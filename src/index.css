@@ -221,6 +221,7 @@ button:hover {
   height: 13rem;
   width: 18rem;
   display: grid;
+  margin-left:-9rem;
   /* gap: 0.5rem 0.5rem; */
 }
 
